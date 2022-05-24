@@ -6,6 +6,8 @@
 
 <h1 align="center">Computer Assistence</h1>
 
+<img src="https://user-images.githubusercontent.com/87211192/170036424-d67e608c-ed1e-4b27-b50e-146347fa83ca.PNG" />
+
 <p align="center">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{odiegosantos}}/calido?color=56BEB8" /> -->
